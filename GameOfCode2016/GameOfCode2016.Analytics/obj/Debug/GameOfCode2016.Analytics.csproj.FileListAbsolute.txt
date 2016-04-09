@@ -1,0 +1,12 @@
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\GameOfCode2016.Analytics\bin\Debug\GameOfCode2016.Analytics.dll.config
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\GameOfCode2016.Analytics\bin\Debug\GameOfCode2016.Analytics.dll
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\GameOfCode2016.Analytics\bin\Debug\GameOfCode2016.Analytics.pdb
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\GameOfCode2016.Analytics\bin\Debug\DynamicInterop.dll
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\GameOfCode2016.Analytics\bin\Debug\RDotNet.dll
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\GameOfCode2016.Analytics\bin\Debug\RDotNet.NativeLibrary.dll
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\GameOfCode2016.Analytics\bin\Debug\DynamicInterop.xml
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\GameOfCode2016.Analytics\bin\Debug\RDotNet.xml
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\GameOfCode2016.Analytics\bin\Debug\RDotNet.NativeLibrary.xml
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\GameOfCode2016.Analytics\obj\Debug\GameOfCode2016.Analytics.dll
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\GameOfCode2016.Analytics\obj\Debug\GameOfCode2016.Analytics.pdb
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\GameOfCode2016.Analytics\obj\Debug\GameOfCode2016.Analytics.csprojResolveAssemblyReference.cache

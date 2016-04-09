@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e0439a1a2f6b44c08a07061fe779b3b5" Name="Diagram1">
+        <EntityTypeShape EntityType="GameOfCode2016Model.C__MigrationHistory" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GameOfCode2016Model.AspNetRoles" Width="1.5" PointX="0.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GameOfCode2016Model.AspNetUserClaims" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="GameOfCode2016Model.AspNetUserLogins" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GameOfCode2016Model.AspNetUsers" Width="1.5" PointX="3" PointY="1.375" IsExpanded="true" />
+        <AssociationConnector Association="GameOfCode2016Model.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="GameOfCode2016Model.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="GameOfCode2016Model.AspNetUserRoles" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="GameOfCode2016Model.Forecast" Width="1.5" PointX="3.375" PointY="6.75" />
+        <EntityTypeShape EntityType="GameOfCode2016Model.Occupancy" Width="1.5" PointX="5.375" PointY="6.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

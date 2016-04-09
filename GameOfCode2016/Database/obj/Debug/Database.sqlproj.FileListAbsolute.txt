@@ -1,0 +1,9 @@
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\Database\bin\Debug\Database.dacpac
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\Database\bin\Debug\Database.dll
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\Database\bin\Debug\Database.pdb
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\Database\obj\Debug\Model.xml
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\Database\obj\Debug\refactor.xml
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\Database\obj\Debug\postdeploy.sql
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\Database\obj\Debug\predeploy.sql
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\Database\obj\Debug\Database.dll
+C:\TFS\TaxReportingTool\GameOfCode2016\GameOfCode2016\Database\obj\Debug\Database.pdb
